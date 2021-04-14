@@ -1,0 +1,13 @@
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.csprojAssemblyReference.cache
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.AssemblyInfoInputs.cache
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.AssemblyInfo.cs
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.csproj.CoreCompileInputs.cache
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\bin\Debug\netcoreapp3.1\ExamenT1.exe
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\bin\Debug\netcoreapp3.1\ExamenT1.deps.json
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\bin\Debug\netcoreapp3.1\ExamenT1.runtimeconfig.json
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\bin\Debug\netcoreapp3.1\ExamenT1.runtimeconfig.dev.json
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\bin\Debug\netcoreapp3.1\ExamenT1.dll
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\bin\Debug\netcoreapp3.1\ExamenT1.pdb
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.dll
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.pdb
+C:\Users\tony9\source\repos\ExamenT1\ExamenT1\obj\Debug\netcoreapp3.1\ExamenT1.genruntimeconfig.cache
